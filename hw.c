@@ -5,5 +5,5 @@
 void hello_world(void)
 {
     // Print HELLO WORLD to the screen
-    PrintStr(20, 20, "HELLO WORLD");
+    PrintStr(50, 75, "HELLO WORLD");
 }
